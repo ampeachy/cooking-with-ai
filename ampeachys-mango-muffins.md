@@ -27,9 +27,9 @@
 8. Bake 375°F for 16–20 min.
 
 ## Notes
-- Originally developed with ChatGPT
-- Revised with Claude (Anthropic) for TikTok content
-- Base adapted for cooked fruit to keep muffins moist and delicious
+- Recipe development assisted by ChatGPT (OpenAI) for measurements and structure
+- Documentation and formatting assisted by Claude (Anthropic) for TikTok and GitHub
+- Recipe tested and refined by Ampeachy
 
 ## Watch the Recipe
 See the full process [on TikTok](https://www.tiktok.com/@ampeachy_/video/7609518365832449310)
