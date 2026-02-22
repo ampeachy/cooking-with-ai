@@ -3,7 +3,7 @@
 A collection of recipes developed and documented with AI assistance.
 
 ## Recipes
-- [Mango-Cinnamon Muffins](ampeachy's-mango-muffins.md) - Co-created with ChatGPT, revised with Claude (Anthropic)
+- [Ampeachy's Mango Muffins](ampeachy's-mango-muffins.md) - Co-created with ChatGPT, revised with Claude (Anthropic)
 
 ## About
 This repo documents recipes created for my TikTok (@ampeachy) and other platforms, noting when AI was used in the development process.
