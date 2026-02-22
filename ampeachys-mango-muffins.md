@@ -32,4 +32,4 @@
 - Base adapted for cooked fruit to keep muffins moist and delicious
 
 ## Watch the Recipe
-See the full process [on TikTok]([https://www.tiktok.com/@ampeachy/video/1234567890](https://www.tiktok.com/@ampeachy_/video/7609518365832449310?is_from_webapp=1&sender_device=pc&web_id=7544855837731997239))
+See the full process [on TikTok](https://www.tiktok.com/@ampeachy_/video/7609518365832449310)
