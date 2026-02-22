@@ -30,3 +30,6 @@
 - Originally developed with ChatGPT
 - Revised with Claude (Anthropic) for TikTok content
 - Base adapted for cooked fruit to keep muffins moist and delicious
+
+## Watch the Recipe
+See the full process on TikTok: [Link]([your-tiktok-link-here](https://www.tiktok.com/@ampeachy_/video/7609518365832449310?is_from_webapp=1&sender_device=pc&web_id=7544855837731997239))
