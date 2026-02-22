@@ -32,4 +32,4 @@
 - Recipe tested and refined by Ampeachy
 
 ## Watch the Recipe
-See the full process [on TikTok](https://www.tiktok.com/@ampeachy_/video/7609518365832449310)
+See the full cooking process [on TikTok](https://www.tiktok.com/@ampeachy_/video/7609518365832449310)
